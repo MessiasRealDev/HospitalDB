@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "numero": "101",
+  "tipo": "Apartamento",
+  "descricao": "Quarto individual com banheiro",
+  "valor_diaria": 500
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439012"
+  },
+  "numero": "201",
+  "tipo": "Quarto Duplo",
+  "descricao": "Quarto compartilhado com 2 leitos",
+  "valor_diaria": 300
+},
+{
+  "_id": {
+    "$oid": "507f1f77bcf86cd799439013"
+  },
+  "numero": "301",
+  "tipo": "Enfermaria",
+  "descricao": "Enfermaria com 6 leitos",
+  "valor_diaria": 150
+}]

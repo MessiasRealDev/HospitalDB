@@ -1,0 +1,224 @@
+[{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439111"
+  },
+  "data_entrada": {
+    "$date": "2021-02-10T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-02-15T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-02-17T00:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de pneumonia",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439041"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439021"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439061"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439062"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439112"
+  },
+  "data_entrada": {
+    "$date": "2021-03-05T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-03-10T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-03-08T00:00:00.000Z"
+  },
+  "procedimentos": "Cirurgia de apendicite",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439042"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439023"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439012"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439063"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439064"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439113"
+  },
+  "data_entrada": {
+    "$date": "2021-04-12T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-04-15T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-04-20T00:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de fratura",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439043"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439027"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439013"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439065"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439066"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439114"
+  },
+  "data_entrada": {
+    "$date": "2021-05-18T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-05-20T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-05-19T00:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de infecção urinária",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439044"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439029"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439067"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439068"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439115"
+  },
+  "data_entrada": {
+    "$date": "2021-06-22T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-06-25T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-06-27T00:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de pneumonia",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439041"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439021"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439012"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439069"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439070"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439116"
+  },
+  "data_entrada": {
+    "$date": "2021-07-30T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-08-05T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-08-03T00:00:00.000Z"
+  },
+  "procedimentos": "Cirurgia de hérnia",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439045"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439023"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439013"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439061"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439062"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "a07f1f77bcf86cd799439117"
+  },
+  "data_entrada": {
+    "$date": "2021-08-15T00:00:00.000Z"
+  },
+  "data_prevista_alta": {
+    "$date": "2021-08-20T00:00:00.000Z"
+  },
+  "data_efetiva_alta": {
+    "$date": "2021-08-25T00:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de gastroenterite",
+  "paciente_id": {
+    "$oid": "707f1f77bcf86cd799439042"
+  },
+  "medico_id": {
+    "$oid": "607f1f77bcf86cd799439032"
+  },
+  "quarto_id": {
+    "$oid": "507f1f77bcf86cd799439011"
+  },
+  "enfermeiros": [
+    {
+      "$oid": "807f1f77bcf86cd799439063"
+    },
+    {
+      "$oid": "807f1f77bcf86cd799439064"
+    }
+  ]
+}]
