@@ -4,6 +4,15 @@ Este projeto simula um sistema de gestão hospitalar utilizando arquivos JSON. E
 
 ---
 
+## 📊 Diagrama de Relacionamento
+
+Abaixo está o fluxo de decisão e estrutura de dados utilizados neste exercício:
+
+![image](https://github.com/user-attachments/assets/42abe41a-ad69-4555-aaad-e0a2a00274b5)
+
+
+---
+
 ## 📁 Estrutura dos Arquivos
 
 | Arquivo                         | Descrição |
@@ -47,3 +56,4 @@ Este projeto simula um sistema de gestão hospitalar utilizando arquivos JSON. E
 {
   "paciente_id": "707f1f77bcf86cd799439041"
 }
+
